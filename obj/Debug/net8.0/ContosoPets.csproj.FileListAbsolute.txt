@@ -1,0 +1,14 @@
+C:\Users\augus\source\repos\ContosoPets\bin\Debug\net8.0\ContosoPets.exe
+C:\Users\augus\source\repos\ContosoPets\bin\Debug\net8.0\ContosoPets.deps.json
+C:\Users\augus\source\repos\ContosoPets\bin\Debug\net8.0\ContosoPets.runtimeconfig.json
+C:\Users\augus\source\repos\ContosoPets\bin\Debug\net8.0\ContosoPets.dll
+C:\Users\augus\source\repos\ContosoPets\bin\Debug\net8.0\ContosoPets.pdb
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ContosoPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ContosoPets.AssemblyInfoInputs.cache
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ContosoPets.AssemblyInfo.cs
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ContosoPets.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ContosoPets.dll
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\refint\ContosoPets.dll
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ContosoPets.pdb
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ContosoPets.genruntimeconfig.cache
+C:\Users\augus\source\repos\ContosoPets\obj\Debug\net8.0\ref\ContosoPets.dll
